@@ -31,4 +31,4 @@ There is also an **Core-Platform-Agreements** folder to remind you of the agreem
 
 ### Questions
 
-Contact SP support through the Strategic Pivot site, specifically the . Never send document text or access tokens by email.
+Contact SP support through the Strategic Pivot site, specifically www.strategicpivot.com/pages/sp-core/contact.php. Never send document text or access tokens by email.
